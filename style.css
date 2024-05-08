@@ -1,0 +1,98 @@
+/* CSS is how you can add style to your website, such as colors, fonts, and positioning of your
+   HTML content. To learn how to do something, just try searching Google for questions like
+   "how to change link color." */
+div {
+  width: 300px;
+  border: 15px green;
+  padding: 50px;
+  margin: 20px;
+}
+body {
+  background-color: black;
+  color: pink;
+  font-family: Vernanda;
+}
+body {
+  background-image: url("vapors.jpeg");
+}
+
+p {
+ background-color: black;
+}
+p {
+ width: 200;
+ height: 40;
+
+ul {
+ background-color: black;
+}
+ul {
+ width: 200;
+ height: 40;
+}
+
+li {
+ background-color: black;
+}
+li {
+ width: 200;
+ height: 40;
+
+h1 {
+ background-color: black;
+}
+
+/* unvisited link */
+a:link {
+  color: white;
+}
+
+/* visited link */
+a:visited {
+  color: gray;
+}
+
+/* mouse over link */
+a:hover {
+  color: pink;
+}
+
+/* selected link */
+a:active {
+  color: pink;
+}
+
+/*
+h1 {
+  -webkit-text-stroke-width: 1.5px;
+  -webkit-text-stroke-color: yellow;
+}
+h2 {
+  -webkit-text-stroke-width: 1.5px;
+  -webkit-text-stroke-color: yellow;
+}
+h3 {
+  -webkit-text-stroke-width: 1.5px;
+  -webkit-text-stroke-color: yellow;
+}
+h4 {
+  -webkit-text-stroke-width: 1.5px;
+  -webkit-text-stroke-color: yellow;
+}
+h5 {
+  -webkit-text-stroke-width: 1.5px;
+  -webkit-text-stroke-color: yellow;
+}
+h6 {
+  -webkit-text-stroke-width: 1.5px;
+  -webkit-text-stroke-color: yellow;
+}
+h7 {
+  -webkit-text-stroke-width: 1.5px;
+  -webkit-text-stroke-color: yellow;
+}
+p {
+  -webkit-text-stroke-width: 0.9px;
+  -webkit-text-stroke-color: orange;
+  
+*/
